@@ -1,4 +1,4 @@
-# Emotion Recognition from In-the-wild Videos
+# Emotion Recognition for In-the-wild Videos
 Code for the seven basic expression classification track of Affective Behavior Analysis in-the-wild (ABAW) Competition held in conjunction with the IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2020.
 
 ### Requirements
